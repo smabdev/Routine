@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "TaskViewController.(viewDidLoad() -&gt; ()).(closure #2):TaskViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "stored.currentProjectIndex">
+            </PersistentString>
+            <PersistentString
+               value = "stored.projects[stored.currentProjectIndex].tasks">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TasksViewController.tableView(UITableView, commit : UITableViewCellEditingStyle, forRowAt : IndexPath) -&gt; ():TasksViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "stored.findProjectIndex(forTask: stored.tasks.forCurrentSource[indexPath.row])">
+            </PersistentString>
+            <PersistentString
+               value = "stored.currentProjectIndex">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TasksViewController.tableView(UITableView, cellForRowAt : IndexPath) -&gt; UITableViewCell:TasksViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "stored.tasksIndexesForCurrentTaskType[indexPath.row].task">
+            </PersistentString>
+            <PersistentString
+               value = "stored.tasksIndexesForCurrentTaskType[indexPath.row].project">
+            </PersistentString>
+            <PersistentString
+               value = "stored.projects.count">
+            </PersistentString>
+            <PersistentString
+               value = "stored.taskType">
+            </PersistentString>
+            <PersistentString
+               value = "stored.tasksCountForCurrentTaskType">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Stored.Tasks.forCurrentSource.getter:Stored.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "stored.taskSource">
+            </PersistentString>
+            <PersistentString
+               value = "stored.projects.count">
+            </PersistentString>
+            <PersistentString
+               value = "if stored.projects == nil">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ProjectsViewController.(setProjectTable(isOpen : Bool) -&gt; ()).(closure #1).(closure #1):ProjectsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "scrollView.contentSize">
+            </PersistentString>
+            <PersistentString
+               value = "self.scrollViewConstraint.constant">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ProjectViewController.viewDidLoad() -&gt; ():ProjectViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Data.projects.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static Archiver.loadProjectsFromDefaults() -&gt; ():Archiver.swift">
+      </ContextState>
+      <ContextState
+         contextName = "Slider.leftMenuOpen() -&gt; ():Slider.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "status">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TaskViewController.rightBarButtonClick(Any) -&gt; ():TaskViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "stored.projects[stored.currentProjectIndex].tasks">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
